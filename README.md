@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mohitsoni1212
 - 👀 I’m interested in website development 
-- 🌱 I’m currently learning BCA
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning .HTML,.CSS,.JS,REACT.JS,Node.js 
 - 📫 How to reach me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: friendship, learning, coding
